@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AdventureWorks.Image.Upload": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
